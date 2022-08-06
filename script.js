@@ -7,7 +7,6 @@ fetch("https://api.covid19api.com/summary")
     var li = `<tr>
                 <th>Country</th>
                 <th>Country Code</th>
-                
                  <th>New Confirmed</th>
                  <th>New Deaths</th>
                  <th>Total Confirmed</th>

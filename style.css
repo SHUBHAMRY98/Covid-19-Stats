@@ -2,11 +2,7 @@
     background-color: whitesmoke;
     color: black;
   }
-  body header{
-    position: fixed;
-    width: 90%;
-    margin-bottom: 20%;
-  }
+
  
   body {
     width: 90%;
@@ -31,7 +27,7 @@ hr{
     box-sizing: border-box;
     align-items: center;
   }
-  
+
   
   td, th {
     border: 2px solid black;
