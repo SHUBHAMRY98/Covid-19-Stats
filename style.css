@@ -1,0 +1,74 @@
+*{
+    background-color: whitesmoke;
+    color: black;
+  }
+  body header{
+    position: fixed;
+    width: 90%;
+    margin-bottom: 20%;
+  }
+ 
+  body {
+    width: 90%;
+    height: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+hr{
+  background: black;
+  height: 2px;
+ 
+}
+
+  table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: aqua;
+    border: 2px solid black;
+    box-sizing: border-box;
+    align-items: center;
+  }
+  
+  
+  td, th {
+    border: 2px solid black;
+    padding: 0.5rem;
+  }
+
+  h2{
+    color: antiquewhite;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    text-decoration: underline black;
+   
+  }
+  h3{
+    
+    display: block;
+    text-align: end;
+
+  }
+
+.search{
+width: 30%;
+padding: 10px 10px;
+margin: 8px 0;
+border: 2px solid black;
+box-sizing: border-box;
+
+  align-items: flex-end;
+
+}
+#btnsearch, #btnClear{
+background-color: whitesmoke;
+color: black;
+padding: 10px;
+border: 2px solid black;
+box-sizing: border-box;
+align-items: flex-end;
+
+}
